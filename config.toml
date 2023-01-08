@@ -1,4 +1,4 @@
-baseURL = 'https://top.apichart.github.io/'
+baseURL = 'https://topapichart.github.io/'
 languageCode = 'en-us'
 title = 'Hello My New Hugo Site'
-theme = 'ananke'
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
